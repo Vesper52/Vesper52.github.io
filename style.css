@@ -1,0 +1,16 @@
+body{
+  padding-top: 65px;
+}
+
+
+footer{
+
+  left:0;
+  bottom:0;
+  text-align:center;
+}
+
+#imgborder{
+  border-style:solid;
+  border-color:black;
+}
